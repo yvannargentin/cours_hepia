@@ -1,0 +1,4 @@
+* Références
+
+- Librairie standard Scala: [[http://www.scala-lang.org/api/current/][Scaladoc]]
+
